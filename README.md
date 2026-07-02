@@ -1,4 +1,4 @@
-# MyPharmacyFlutter
+# Dawaa'e
 A simple yet feature rich pharmacy finder built in flutter that helps locate pharmacy with ease
 
 API KEY NOT PROVIDED
